@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://narongsak15:narongsak15@learning-center-sut-jhuiz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
